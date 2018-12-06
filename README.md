@@ -1,7 +1,7 @@
 # Code for "Interactive CPPNs in GLSL"
 
 This code goes along with the NIPS Creativity Workshop 2018 submission
-"Interactive CPPNs in GLSL" by [Xavier Snelgrove](http://wxs.ca)
+"[Interactive CPPNs in GLSL](https://nips2018creativity.github.io/doc/interactive_cppns_in_glsl.pdf)" by [Xavier Snelgrove](http://wxs.ca)
 and [Matthew Tesfaldet](https://mtesfaldet.net/).
 
 The Jupyter notebook [cppn2glsl.ipynb](cppn2glsl.ipynb) contains code for training a CPPN building
