@@ -14,19 +14,18 @@ You can also replicate the results in your browser in a [colab notebook here](ht
 One of the export modes this supports is "Shadertoy" which outputs code compatible with the online
 [Shadertoy](http://shadertoy.com) shader editor and community.
 
-![Audio reactive fire](fire.png)
-
+[![Audio reactive fire](fire.png)](https://www.shadertoy.com/view/lttBz2)
 [View on Shadertoy (audio reactive)](https://www.shadertoy.com/view/lttBz2)
 
-![Audio reactive flowers](audioflowers.png)
+[![Audio reactive flowers](audioflowers.png)](https://www.shadertoy.com/view/ltcBDN))
 
 [View on Shadertoy (audio reactive)](https://www.shadertoy.com/view/ltcBDN)
 
-![Flowerfield](flowerfield.png)
+[![Flowerfield](flowerfield.png)](https://www.shadertoy.com/view/lt3fzj)
 
 [View on Shadertoy (warning, relatively resource intensive)](https://www.shadertoy.com/view/lt3fzj)
 
-![Different flowers](flowers.png)
+[![Different flowers](flowers.png)](https://www.shadertoy.com/view/MttfR2)
 
 [View on shadertoy](https://www.shadertoy.com/view/MttfR2)
 
